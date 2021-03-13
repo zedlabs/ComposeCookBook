@@ -14,7 +14,7 @@
 
 <div align="center">
     <a href = "https://developer.android.com/jetpack/androidx/versions/all-channel#december_16_2020">
-      <img src = "https://img.shields.io/badge/Jetpack%20Compose-1.0.0%20beta01-brightgreen" />
+      <img src = "https://img.shields.io/badge/Jetpack%20Compose-1.0.0%20beta02-brightgreen" />
     </a>
   <a href = "https://github.com/Gurupreet/ComposeCookBook/network/">
     <img src = "https://img.shields.io/github/forks/Gurupreet/ComposeCookBook" />
@@ -27,17 +27,20 @@
   </a>  
     <a href = "https://github.com/Gurupreet/ComposeCookBook/blob/master/LICENSE">
      <img src = "https://img.shields.io/github/license/Gurupreet/ComposeCookBook" />
-  </a> 
+  </a>
   <a href = "https://twitter.com/_gurupreet">
      <img src = "https://img.shields.io/twitter/url?label=follow&style=social&url=https%3A%2F%2Ftwitter.com%2F_gurupreet" />
   </a>
 </div>
-
+<div></div>
+<div></div>
 # Jetpack Compose
 Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
 
 ### Jetpack compose for Desktop:
 [Compose Spotify Desktop](https://github.com/Gurupreet/ComposeSpotifyDesktop)
+### FontAwesomeIcons in Compose:
+[FontAwesome Icon Library ](https://github.com/Gurupreet/FontAwesomeCompose)
 
 ## Screens
 List & Layouts             |  Widgets and building blocks| Animations | Theme
@@ -61,7 +64,7 @@ CryptoApp MVVM             |  MovieApp MVI              | Dating APP DEMO UI
 
 ### Advance lists and animations
 Shimmer Lists             | List Scroll Animations       
-:-------------------------:|:-------------------------: 
+:-------------------------:|:-------------------------:
 ![](https://media.giphy.com/media/VQof1yEEbEgcqgY7WW/giphy.gif)  |  ![](https://media.giphy.com/media/hhpnI1beJr6gRi4btK/giphy.gif)
 
 ## If this project helped you in any way feel free to show some love
@@ -78,14 +81,14 @@ Please get **Android Studio Arctic Fox 2020.3.1 Canary 4** or above to build thi
 - __Demo UI:__ Learn how demo UI have been made by using layouts, listviews and widgets.
 - __Animations:__ Animations are very interesting in compose. Checkout single value animations to get started.
 - __UI Tests:__ Checkout UI tests to understand how we can test compose UI.
-- __Others:__ After the above steps feel free to deep dive into Tablayouts, carousel, Dialogs and BottomSheets 
+- __Others:__ After the above steps feel free to deep dive into Tablayouts, carousel, Dialogs and BottomSheets
 
 
 ## Coming Soon
 - Some of the features that will be available in coming weeks
   - Advance lists: Pull Refresh, Swipe lsits etc
   - Clean Architecture Sample with coroutines.
-  - Advance canvas drawing. 
+  - Advance canvas drawing.
   Much more in pipeline stay tuned!!
 
 ## Official Documentations
@@ -93,7 +96,7 @@ Please get **Android Studio Arctic Fox 2020.3.1 Canary 4** or above to build thi
   - [Compose Pathway](https://developer.android.com/courses/pathways/compose)
   - [Jetpack compose](https://developer.android.com/jetpack/compose)
   - [Jetpack compose Samples](https://github.com/android/compose-samples)
-  
+
 - [Compose Academy ](https://compose.academy/)
 
 ## Contribution Info
@@ -103,7 +106,7 @@ Please get **Android Studio Arctic Fox 2020.3.1 Canary 4** or above to build thi
   - Any Demo UI please add to Demo UI section
   - Try not to add new Icons/Images unless must be needed.
   - Please make sure whatever you add also supports dark mode as well.
-  Thanks happy coding 
+  Thanks happy coding
 
 
 ## Please Share & Star the repository to keep me motivated.
@@ -113,4 +116,3 @@ Please get **Android Studio Arctic Fox 2020.3.1 Canary 4** or above to build thi
   <a href = "https://twitter.com/_gurupreet">
      <img src = "https://img.shields.io/twitter/url?label=follow&style=social&url=https%3A%2F%2Ftwitter.com%2F_gurupreet" />
   </a>
-
